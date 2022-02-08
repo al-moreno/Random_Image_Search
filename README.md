@@ -23,7 +23,7 @@ Not applicable
 
 1. No installation is needed
 2. You may view the code on [GitHub](https://github.com/al-moreno/Random_Image_Search)
-3. You may view the site on GitHub Pages (https://al-moreno.github.io/Random_Image_Search/)
+<!-- 3. You may view the site on GitHub Pages (https://al-moreno.github.io/Random_Image_Search/) -->
 
 
 ## License:
